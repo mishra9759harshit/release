@@ -1,0 +1,27 @@
+{
+  "android": {
+    "latestVersion": "1.0.1",
+    "mandatory": true,
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.ecampus.app"
+  },
+  "windows": {
+    "latestVersion": "1.0.1",
+    "mandatory": true,
+    "downloadUrl": "https://github.com/mishra9759harshit/eCampus_flutter/releases/latest"
+  },
+  "ios": {
+    "latestVersion": "1.0.1",
+    "mandatory": true,
+    "downloadUrl": "https://apps.apple.com/app/id123456789"
+  },
+  "linux": {
+    "latestVersion": "1.0.1",
+    "mandatory": true,
+    "downloadUrl": "https://github.com/mishra9759harshit/eCampus_flutter/releases/latest"
+  },
+  "mac": {
+    "latestVersion": "1.0.1",
+    "mandatory": true,
+    "downloadUrl": "https://apps.apple.com/app/id123456789"
+  }
+}
