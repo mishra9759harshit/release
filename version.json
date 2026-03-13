@@ -5,7 +5,7 @@
     "downloadUrl": "https://play.google.com/store/apps/details?id=com.ecampus.app"
   },
   "windows": {
-    "latestVersion": "1.0.1+2",
+    "latestVersion": "1.0.3+5",
     "mandatory": true,
     "downloadUrl": "https://github.com/mishra9759harshit/eCampus_flutter/releases/latest"
   },
