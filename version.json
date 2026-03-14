@@ -1,13 +1,13 @@
 {
   "android": {
-    "latestVersion": "1.0.1+4",
+    "latestVersion": "1.0.3+3",
     "mandatory": true,
     "downloadUrl": "https://play.google.com/store/apps/details?id=com.ecampus.app"
   },
   "windows": {
     "latestVersion": "1.0.3+3",
     "mandatory": true,
-    "downloadUrl": "https://github.com/mishra9759harshit/eCampus_flutter/releases/latest"
+    "downloadUrl": "https://github.com/mishra9759harshit"
   },
   "ios": {
     "latestVersion": "1.0.1",
