@@ -1,8 +1,8 @@
 {
   "android": {
-    "latestVersion": "1.0.6+6",
+    "latestVersion": "1.0.10",
     "mandatory": true,
-    "downloadUrl": "https://play.google.com/store/apps/details?id=com.ecampus.app"
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.bitrolabs.bcbecampus&pcampaignid=web_share"
   },
   "windows": {
     "latestVersion": "1.0.4+4",
